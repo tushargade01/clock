@@ -104,3 +104,12 @@ body{
 .logos{
   margin: 20px 10px 10px 10px;
 }
+@media (300px<=width<=800px) {
+  .date-box{
+    padding: 20px 10px 5px 10px;
+    width: 55%;
+    margin: 150px auto 50px auto;
+    border-radius:15px 5px;
+    
+  }
+}
